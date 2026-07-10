@@ -1,0 +1,39 @@
+/* selector{
+        propertyname:value
+    propertyname:value
+    propertyname:value
+} */
+ /* .container{
+    background-color: blue;
+ } */
+  *{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+  }
+ h1{
+    border: 5px solid red;
+    background-color: aquamarine;
+    color: beige;
+    height: 100px;
+    width: 300px;
+    padding: 30px;
+    margin: 10 px;
+ }
+ i{
+   font-size: 200px;
+   margin-left: 50px;
+   color: blue;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+ h2{
+    border: 5px solid red;
+    background-color: aquamarine;
+    color: beige;
+    height: 100px;
+    width: 300px;
+    padding: 30px;
+    margin: 10 px;
+ }
